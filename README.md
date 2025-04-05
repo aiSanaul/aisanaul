@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEg7kFuvxDYQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726931653055?e=1749081600&v=beta&t=8kSgs_7CGgw9wqBSswLHxwy1HK5jaDZ-c3lLFjOCdJU" alt="banner" />
 
-# Hi there, I'm Sanaul 👋
+# Hi there!👋
 
 Welcome to my GitHub profile! I'm a frontend developer with a love for Web Designing. Here's a little bit about me:
 
