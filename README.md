@@ -2,7 +2,7 @@
 
 # Hi there!👋
 
-Welcome to my GitHub profile! I'm a frontend developer with a love for Web Designing. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a frontend developer and I love Web Designing. Here's little bit about me:
 
 ## 🔭 What I'm working on
 - Building websites with beautiful UIs
